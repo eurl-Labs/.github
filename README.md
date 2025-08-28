@@ -1,6 +1,9 @@
 # 🌊 eurlquid
 
-## 📝 One Liner
+<img width="1710" height="926" alt="image" src="https://github.com/user-attachments/assets/889168dd-52b0-4d03-acda-33adf477e915" />
+
+<img width="1710" height="926" alt="image" src="https://github.com/user-attachments/assets/b025d27a-f5b9-4187-a741-d1f6bd1b531b" />
+
 **eurlquid – The AI-powered real-time cross-DEX liquidity intelligence platform on Sonic Mainnet.**
 
 ---
