@@ -86,7 +86,7 @@ eurlquid solves this by combining **real-time data ingestion, predictive AI mode
 - [x] Sonic Mainnet deployment  
 - [ ] Integrate multi-chain support  
 - [ ] AI-driven risk monitoring dashboards  
-- [ ] Governance & token launch  
+- [ ] Bridge feature
 
 ---
 
