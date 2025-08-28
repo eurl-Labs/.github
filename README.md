@@ -80,6 +80,64 @@ eurlquid solves this by combining **real-time data ingestion, predictive AI mode
 - ✅ **Sonic Mainnet**  
 
 ---
+## 🔮 AI & Data Integrations in eurlquid
+
+eurlquid combines **AI models, DeFi data providers, and blockchain infrastructure** to deliver real-time, predictive liquidity intelligence.  
+
+---
+
+### ⚡ Groq – API LLM (AI)
+Groq provides ultra-fast **Large Language Model (LLM) inference** that powers eurlquid’s **AI insights and predictive intelligence**.  
+- Real-time analysis of liquidity patterns  
+- Detects whale movements & market shifts  
+- Smarter swap recommendations and risk alerts  
+
+---
+
+### 📊 DeFiLlama – TVL, Liquidity & DEX Transactions
+DeFiLlama serves as the **DeFi data aggregator**, offering reliable metrics across the ecosystem.  
+- Total Value Locked (TVL)  
+- Liquidity distribution across chains/DEXs  
+- Transaction activity and volume data  
+
+---
+
+### 🔗 The Graph – Liquidity & Transaction Indexing
+The Graph acts as the **indexing layer** for querying on-chain data.  
+- Indexes liquidity pool states and swap events  
+- Efficient historical + real-time queries  
+- Powers the **Explorer** and **Transaction History** features in eurlquid  
+
+---
+
+### 💹 Pyth – Real-Time Token Prices
+Pyth delivers **low-latency, institutional-grade price oracles**.  
+- Sub-second token price updates  
+- Accurate swap execution  
+- Reduced slippage & improved reliability  
+
+---
+
+### 🛠 Alchemy – Smart Contract Transaction Monitoring
+Alchemy provides the **infrastructure layer** for transaction monitoring.  
+- Fetches smart contract interactions  
+- Confirms transaction success  
+- Triggers real-time notifications for swaps & liquidity actions  
+
+---
+
+### 🤖 AI Model – openai/gpt-oss-20b
+eurlquid integrates the **open-source GPT-OSS-20B model** from OpenAI for advanced reasoning.  
+- Natural language insights for traders & developers  
+- AI-powered liquidity and risk analysis  
+- Supports predictive intelligence modules  
+
+---
+
+✨ Together, these integrations make **eurlquid the “Bloomberg Terminal for DeFi Liquidity”** — delivering **real-time, transparent, and predictive analytics** for the entire DeFi ecosystem.
+
+
+---
 
 ## 🗺 Roadmap
 - [x] MVP: Swap, Create Pool, Add Liquidity, Explorer, History  
@@ -96,3 +154,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ✨ Built by **eurl-Labs** — making DeFi smarter with real-time liquidity intelligence.
+
+
